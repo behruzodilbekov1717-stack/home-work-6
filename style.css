@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(190, 195, 199);
+}
+.header {
+}
+.div1 {
+    margin: 120px 550px 0 550px;
+    padding: 3px;
+    height: 75px;
+    text-align: center;
+    background-color: rgb(42, 128, 185);
+    color: white;
+}
+.div2 {
+    padding: 10px;
+    margin: 0 550px;
+    height: 350px;
+
+    background-color: rgb(45, 62, 80);
+}
+form {
+    padding: 12px 135px;
+    font-size: 20px;
+}
+button {
+    font-size: medium;
+    margin: 0 150px;
+    padding: 0 30px;
+    color: white;
+    background-color: rgb(42, 128, 185);
+}
+.last {
+    padding: 0 80px 12px 80px;
+    font-size: medium;
+}
+label {
+    color: rgb(42, 128, 185);
+}
+strong {
+    color: white;
+}
